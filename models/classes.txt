@@ -1,0 +1,15 @@
+basket
+apple
+van
+wine glass
+basketball
+axe
+banana
+bicycle
+telephone
+fork
+cake
+bridge
+wristwatch
+backpack
+bird

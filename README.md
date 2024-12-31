@@ -14,9 +14,11 @@ This repository contains a training pipeline for a Convolutional Neural Network 
 
 - Python 3.10+
 - TensorFlow
+- scikit-learn
 - Matplotlib
 - NumPy
 - tf2onnx
+- onnx
 
 ## Usage
 
